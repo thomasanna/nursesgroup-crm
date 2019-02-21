@@ -1,0 +1,5 @@
+table thead tr th:last-child{width: 480px !important;}
+.trainings table thead tr th:last-child{width: 200px !important;}
+.dbs table thead tr th:last-child{width: 200px !important;}
+.references table thead tr th:last-child{width: 200px !important;}
+.inactive table thead tr th:last-child{width: 150px !important;}

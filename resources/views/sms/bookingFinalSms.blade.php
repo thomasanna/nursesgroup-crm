@@ -1,0 +1,1 @@
+SHIFT CONFIRMATION, Hi {{$data->staff->forname}} , {{date('d/m/Y,D',strtotime($data->date))}}, {{$data->shift->name}}, {{$data->startTime}} to {{$data->endTime}}, {{$data->unit->name}},{{$data->unit->businessAddress}}. Trust you are ok with transport Please confirm, Thank you NSG

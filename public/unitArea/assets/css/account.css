@@ -1,0 +1,9 @@
+.content-header {
+    position: relative;
+    padding: 15px 15px 0 15px;
+}
+.newStyle {
+    background-color:#fff!important;  padding:20px !important;
+}
+.m-5 {margin:5px !important }
+.pFont { font-size:12px !important;}

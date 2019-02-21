@@ -1,0 +1,1 @@
+SHIFT BOOKED, Hi {{$data->staff->forname}} , {{date('d/m/Y,D',strtotime($data->date))}} {{$data->unit->name}} {{$data->shift->name}}, {{$data->startTime}} to {{$data->endTime}} , Thank you NSG

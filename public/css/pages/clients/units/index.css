@@ -1,0 +1,8 @@
+.table-striped thead tr th:last-child{
+  width: 350px !important;
+  text-align: right;
+}
+.table-striped tbody tr td:last-child{
+  width: 350px !important;
+  text-align: right;
+}
